@@ -28,6 +28,7 @@ pip install numpy==1.11.0
 
 apt-get -y install opencv-data libopencv-dev python-opencv
 
+https://www.facebook.com/RORO13DP
 
 
 echo 'get nump-shared python module'
